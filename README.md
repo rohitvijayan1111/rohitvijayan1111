@@ -40,7 +40,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitvijayan1111&layout=compact&theme=radical)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rohitvijayan1111)
-https://leetcode-stats-api.herokuapp.com/rohitvijayan1111
 ## 📚 Coursework
 ### UnderGraduate
 - Artificial Intelligence
