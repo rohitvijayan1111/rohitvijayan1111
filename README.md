@@ -1,14 +1,5 @@
 # Hi there, I'm Rohit Vijayan 👋
 
-## 🏫 Education
-**R.M.K. Engineering College**  
-B.Tech Information Technology (2022-2026) | Tiruvallur  
-CGPA: 8.79/10.00
-
-**Vidya Mandir Senior Secondary School**  
-July 2022 | Chennai  
-Computer Science Top Scorer: 100%  
-Grade: 93%
 
 ## 🌐 Online Profiles
 - **GitHub**: [rohitvijayan1111](https://github.com/rohitvijayan1111)
@@ -18,18 +9,6 @@ Grade: 93%
 - **LeetCode**: [rohitvijayan1111](https://leetcode.com/rohitvijayan1111)
 - **Skillrack**: [111722203012@rmkec](https://www.skillrack.com/user/111722203012)
 
-## 📚 Coursework
-### UnderGraduate
-- Artificial Intelligence
-- Machine Learning
-- Operating Systems
-- Computer Architecture
-- Data Structures
-- Design and Analysis of Algorithms
-- Web Development Framework
-- Software Development Practices
-- Database Management Systems - MySQL, RDBMS
-- Application System Design with UML
 
 ## 💻 Skills
 ### Technical Skills
@@ -61,6 +40,29 @@ Grade: 93%
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitvijayan1111&layout=compact&theme=radical)
 
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/rohitvijayan1111)
+https://leetcode-stats-api.herokuapp.com/rohitvijayan1111
+## 📚 Coursework
+### UnderGraduate
+- Artificial Intelligence
+- Machine Learning
+- Operating Systems
+- Computer Architecture
+- Data Structures
+- Design and Analysis of Algorithms
+- Web Development Framework
+- Software Development Practices
+- Database Management Systems - MySQL, RDBMS
+- Application System Design with UML
+
+## 🏫 Education
+**R.M.K. Engineering College**  
+B.Tech Information Technology (2022-2026) | Tiruvallur  
+CGPA: 8.79/10.00
+
+**Vidya Mandir Senior Secondary School**  
+July 2022 | Chennai  
+Computer Science Top Scorer: 100%  
+Grade: 93%
 
 <!---
 rohitvijayan1111/rohitvijayan1111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
