@@ -4,7 +4,7 @@
 ## 🌐 Online Profiles
 - **GitHub**: [rohitvijayan1111](https://github.com/rohitvijayan1111)
 - **LinkedIn**: [Rohit Vijayan](https://www.linkedin.com/in/rohitvijayan1111)
-- **Gmail**: [rohitvijayan1111@gmail.com](mailto:rohitvijayan1111@gmail.com)
+- **Gmail**: [rohitvijayanofficial@gmail.com](mailto:rohitvijayanofficial@gmail.com)
 - **HackerRank**: [rohitvijayan1111](https://www.hackerrank.com/rohitvijayan1111)
 - **LeetCode**: [rohitvijayan1111](https://leetcode.com/rohitvijayan1111)
 - **Skillrack**: [111722203012@rmkec](https://www.skillrack.com/user/111722203012)
